@@ -1,6 +1,6 @@
-import React from 'react'
 
-import './CountryDetailShimmer.css'
+
+import './CountryDetailshimmer.css'
 
 export default function CountryDetailShimmer() {
   return (
